@@ -12,18 +12,28 @@ Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night
 
 ## Credits / Shoutouts
 
-<p align="right">
-<h3>🖥 Programmers:</h3>
-<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b><br><img src="/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175"></a>
-<h3>🖼 Artists:</h3>
-<b><a href='https://twitter.com/phantomarcade3k'>PhantomArcade3K</a><br>
-<a href='https://twitter.com/phantomarcade3k'><img src="/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175"></a><br><br>
-<a href='https://twitter.com/evilsk8r'>Evilsk8r</a><br>
-<a href='https://twitter.com/evilsk8r'><img src="/art/Evil.png" alt="Evilsk8r" width="175" height="175"></a></b>
-<h3>🎶 Musicians:</h3>
-<b><a href='https://twitter.com/kawaisprite'>Kawaisprite</a></b><br>
-<a href='https://twitter.com/kawaisprite'><img src="/art/Kawai.png" alt="Kawaisprite" width="175" height="175"></a></b>
-</p>
+<table style="span:90%">
+	<tr>
+		<th style="text-align:left"><h3>🖥 Programmers:</h3></th>
+		<th style="text-align:middle"><h3>🖼 Artists:</h3></th>
+		<th style="text-align:right"><h3>🎶 Musicians:</h3></th>
+	</tr>
+	<tr>
+	<td>
+		<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175">
+	</td>
+		<!-- Dont remove the space in the next table, its there to space out the text. -->
+	<td>
+		<a href='https://twitter.com/phantomarcade3k'><b>PhantomArcade3K</b></a>⠀⠀⠀⠀<a href='https://twitter.com/evilsk8r'><b>Evilsk8r</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175">
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Evil.png" alt="Evilsk8r" width="175" height="175"><br>
+	</td>
+	<td>
+		<a href='https://twitter.com/kawaisprite'><b>Kawaisprite</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Kawai.png" alt="Kawaisprite" width="175" height="175">
+	</tr>
+</table>
 
 <p align="center">
 	<a href="https://www.newgrounds.com/"><img src="/art/preloaderArt.png"></a>
